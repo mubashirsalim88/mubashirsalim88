@@ -9,6 +9,7 @@
 - 📊 **LLM & NLP tools** like Resume Ranker and Code Quality Analyzer  
 
 🎓 Master’s in Data Science, Christ University, Pune Lavasa (2023–2025)
+
 🎓 Bechlor's in Computer Science, Statistics & Mathematics, Chandigarh University, Punjab (2020–2023)
 
 ---
