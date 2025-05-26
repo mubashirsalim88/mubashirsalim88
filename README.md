@@ -6,7 +6,7 @@
 🔭 I’m currently building:
 - 🧠 **RL-based Forex Bots** to pass prop firm challenges  
 - 🤖 **Custom Gym Environments** for financial markets (XAU/USD)  
-- 📊 **LLM & NLP tools** like AI Resume Ranker and Code Quality Analyzer  
+- 📊 **LLM & NLP tools** like Resume Ranker and Code Quality Analyzer  
 
 🎓 Master’s in Data Science, Christ University, Pune Lavasa (2023–2025)
 
@@ -22,21 +22,35 @@
 
 ---
 
-## 🔥 Top Projects
-### 📈 [RL Forex Trading Bot](https://github.com/mubashirsalim88/GoldTradingEnv)
-> Custom `gym.Env` for gold (XAU/USD) trading with risk/news/prop-firm logic.
+## 🔥 Featured Projects
 
-### 🚌 [Al-Qaswa Volvo Bus System](https://github.com/mubashirsalim88/alqaswa)
-> Full-stack premium bus ticketing system with payments, real-time seat booking, WhatsApp alerts.
+### 📈 [GoldPulse](https://github.com/mubashirsalim88/GoldPulse)
+> 🏆 **Top Project** – Reinforcement Learning-based Forex Trading Bot designed to pass prop firm challenges.  
+> 🧠 Built with a custom Gym environment (`GoldTradingEnvDiscrete`) for XAU/USD, featuring integrated risk, trade, and news management systems, along with prop firm constraints.
 
-### 🧾 [AI Code Quality Analyzer](https://github.com/mubashirsalim88/code-quality-analyzer)
-> LLM-based analyzer to detect and explain code smells via OpenAI & Flask.
+---
 
-### 🧠 [Resume Ranker (NLP + BERT)](https://github.com/mubashirsalim88/resume-ranker)
-> Ranks resumes for job-fit using NLP, transformers, cosine similarity & keyword extraction.
+### 🧠 [Player Performance Prediction](https://github.com/mubashirsalim88/Player_performance_prediction)
+> ⚡ Predicts IPL player performance using machine learning and explainable AI (SHAP).  
+> 🔍 Includes data preprocessing, modeling, and interpretable visualizations.
 
-### 🛡 [Helmet Detection System](https://github.com/mubashirsalim88/helmet-detection)
-> Real-time safety gear detection using YOLO/OpenCV.
+---
+
+### 📊 [Stock Insight](https://github.com/mubashirsalim88/Stock-Insight)
+> 📉 Academic Project – Real-time stock alert and recommendation system.  
+> 📈 Combines ML models and real-time price monitoring for intelligent decision-making.
+
+---
+
+### 🛰️ [IN-SPACe Workflow System](https://github.com/mubashirsalim88/inspace_project)
+> 🔧 Full-stack document and communication system for ISRO’s IN-SPACe.  
+> 📑 Role-based approval workflows, integrated chat, PDF generation, notifications, and real-time dashboard built using Flask + PostgreSQL.
+
+---
+
+### 🚌 [Al-Qaswa Volvo Bus Service (In Progress)](https://github.com/mubashirsalim88/al-qaswa-bus-service)
+> 🚍 Premium intercity travel platform under development.  
+> 🎟 Real-time seat booking (Socket.io), Razorpay integration, WhatsApp alerts, admin/agent dashboards, and PDF ticketing. Tech stack: MERN + Twilio.
 
 ---
 
